@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url('../images/banking-cent-coins-332304.jpg');
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    background-color: black;
+    color:white;
+    text-align: center;
+    margin: 20px 0 20px 0;
+    opacity: 0.6;
+
+}
+
+ form{
+    width: 50%;
+    margin:auto;
+    margin-top: 114px;
+    background-color:rgba(0, 0,0, 0.4);
+    padding: 50px;
+    
+    
+}
+label{
+    font-size: 24px;
+    color:white;
+}
+/*
+fieldset{
+    /* background-color: black;
+    opacity: 0.5; */
+/* }
+input[type="text"]{
+    border-radius: 2px;
+    height: 20px;
+} */ 
